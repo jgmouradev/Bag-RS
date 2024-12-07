@@ -1,2 +1,1 @@
-# BAGÉ RS
-Página que divulga os principais pontos turísticos da minha cidade natal de Bagé no RS.
+Projeto de uma página de um local turístico que fiz durante o curso da Rocketseat.
